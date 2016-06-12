@@ -38,5 +38,5 @@ int main()
 
     cout<<e<<endl;
     return 0;
-                                                        //Was ist Grün und wenn man auf den Knopf drückt Rot ?
+
 }
